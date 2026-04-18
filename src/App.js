@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import About from './components/About';
-import Projects from './components/Projects';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Header from './componentes/Header';
+import Hero from './componentes/Hero';
+import About from './componentes/About';
+import Projects from './componentes/Projects';
+import Contact from './componentes/Contact';
+import Footer from './componentes/Footer';
 import './App.css';
 
 function App() {
